@@ -52,9 +52,3 @@ Voice Chat -  Removido
 
 
 
-
-
-More WIP:
-
-
-https://cdn.discordapp.com/attachments/258929486828011521/1126611543140876338/Fix_mods.zip ←-------- Download da atualização
