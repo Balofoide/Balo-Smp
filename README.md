@@ -1,13 +1,13 @@
 # Balo-Smp
-Modpack feito para jogar no meu servidor
+  Modpack feito para jogar no meu servidor
 
 
 
-#Balo-SMP Patch Notes v1.0.2
+# Balo-SMP Patch Notes v1.0.2
 
 Novidades importantes:
-Shaders (Opcional)
-Melhoria de performance
+- `Shaders` (Opcional)
+- `Melhoria de performance`
 
 
 Novos mods adicionados: 
