@@ -10,43 +10,42 @@ Shaders (Opcional)
 Melhoria de performance
 
 
-
 Novos mods adicionados: 
-Additional Lanterns
-Ae2-Stuffs -  Removido 
-Another Furniture -  Removido
-Biomancy
-Bovine n Buttercups  -  Removido
-Carpeted
-Compact o Planty -  Removido
-Connected Glass -  Removido
-Creeper Overhaul -  Removido
-Double Doors
-Dynamic Lights
-Mob Health Bar
-Edit Sign
-Fantasy Furniture
-Flux Network
-Gothic Rpg -> Buga o twilight forest (Removido)
-Guard Villagers
-Inventory essentials
-Jade
-Lightspeed -  Removido
-Mekanism + addons 
-Naturalist
-Not Enough Crash
-Paladin Furniture  -  Removido
-Pam Harvest 2 -  Removido(Addons)
-Quark
-Saturn -  Removido
-Sit
-Sky Villages -  Removido
-Smooth Boot
-Sound Physics -  Removido
-Statues -  Removido
-Steam Rails -  Removido
-Veinmine
-Voice Chat -  Removido
+- `Additional Lanterns`
+- `Ae2-Stuffs -  Removido `
+- `Another Furniture `-  Removido
+- `Biomancy`
+- `Bovine n Buttercups`  -  Removido
+- `Carpeted`
+- `Compact o Planty` -  Removido
+- `Connected Glass` -  Removido
+- `Creeper Overhaul` -  Removido
+- `Double Doors`
+- `Dynamic Lights`
+- `Mob Health Bar`
+- `Edit Sign`
+- `Fantasy Furniture`
+- `Flux Network`
+- `Gothic Rpg` -> Buga o twilight forest (Removido)
+- `Guard Villagers`
+- `Inventory essentials`
+- `Jade`
+- `Lightspeed` -  Removido
+- `Mekanism + addons `
+- `Naturalist`
+- `Not Enough Crash`
+- `Paladin Furniture`  -  Removido
+- `Pam Harvest 2` -  Removido(Addons)
+- `Quark`
+- `Saturn` -  Removido
+- `Sit`
+- `Sky Villages` -  Removido
+- `Smooth Boot`
+- `Sound Physics` -  Removido
+- `Statues` -  Removido
+- `Steam Rails` -  Removido
+- `Veinmine`
+- `Voice Chat` -  Removido
 
 
 
