@@ -4,7 +4,7 @@
 
 ## Balo-SMP Patch Notes v1.1.0
 
-## ATUALIZAÇÃO DO MEDO   O_O
+ `ATUALIZAÇÃO DO MEDO   O_O` 
 
 ## Novidades Importantes:
 * Mais Aventura
