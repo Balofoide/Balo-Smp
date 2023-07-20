@@ -4,9 +4,9 @@
 
 #Balo-SMP Patch Notes v1.1.0
 
-##ATUALIZAÇÃO DO MEDO   O_O
+#ATUALIZAÇÃO DO MEDO   O_O
 
-##Novidades Importantes:
+#Novidades Importantes:
 * Mais Aventura
 * Mais Inimigos
 * Mais Armas
@@ -14,7 +14,7 @@
 * Alguns Segredos 
 * Algumas integrações de mods de patchs antigos
 
-##Novos mods adicionados:
+#Novos mods adicionados:
 * Plenty of Golems 
 * Vampires Need Umbrellas
 * Better Amethyst
@@ -50,7 +50,7 @@
 
 Mods removidos:
 
-Easy Mob Health Bar
+* Easy Mob Health Bar
 
 
 
