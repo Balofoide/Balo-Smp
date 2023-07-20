@@ -28,6 +28,7 @@
 * Cosmetic Armor
 * No See , No Tick
 * Memory Leak Fix
+* Strawgolems
 * Mob Grinder Utils
 * Epic Knights
 * Revised Phantoms
