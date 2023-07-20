@@ -2,50 +2,57 @@
   Modpack feito para jogar no meu servidor
 
 
+#Balo-SMP Patch Notes v1.1.0
 
-# Balo-SMP Patch Notes v1.0.2
+##ATUALIZAÇÃO DO MEDO   O_O
 
-Novidades importantes:
-- `Shaders` (Opcional)
-- `Melhoria de performance`
+##Novidades Importantes:
+* Mais Aventura
+* Mais Inimigos
+* Mais Armas
+* Mais Desempenho
+* Alguns Segredos 
+* Algumas integrações de mods de patchs antigos
+
+##Novos mods adicionados:
+* Plenty of Golems 
+* Vampires Need Umbrellas
+* Better Amethyst
+* AE2W
+* Simply Swords
+* AE Infinity Booster
+* Applied-Botanics
+* Applied-Mekanism
+* Epic Samurai
+* Cosmetic Armor
+* No See , No Tick
+* Memory Leak Fix
+* Mob Grinder Utils
+* Epic Knights
+* Revised Phantoms
+* Hexerei
+* Ars Creo
+* Born in Chaos
+* Starlight
+* Enemy Expansion
+* Spark
+* Torchmaster
+* Nether Portal Fix
+* Creeper Overhaul
+* Fps Reducer 2
+* Entity Collision Fix
+* Better 3td person
+* Explorer Compass
+* BOH 
+* Travelers Titles
+* Player Revive
+    
+
+Mods removidos:
+
+Easy Mob Health Bar
 
 
-Novos mods adicionados: 
-- `Additional Lanterns`
-- `Ae2-Stuffs -  Removido `
-- `Another Furniture `-  Removido
-- `Biomancy`
-- `Bovine n Buttercups`  -  Removido
-- `Carpeted`
-- `Compact o Planty` -  Removido
-- `Connected Glass` -  Removido
-- `Creeper Overhaul` -  Removido
-- `Double Doors`
-- `Dynamic Lights`
-- `Mob Health Bar`
-- `Edit Sign`
-- `Fantasy Furniture`
-- `Flux Network`
-- `Gothic Rpg` -> Buga o twilight forest (Removido)
-- `Guard Villagers`
-- `Inventory essentials`
-- `Jade`
-- `Lightspeed` -  Removido
-- `Mekanism + addons `
-- `Naturalist`
-- `Not Enough Crash`
-- `Paladin Furniture`  -  Removido
-- `Pam Harvest 2` -  Removido(Addons)
-- `Quark`
-- `Saturn` -  Removido
-- `Sit`
-- `Sky Villages` -  Removido
-- `Smooth Boot`
-- `Sound Physics` -  Removido
-- `Statues` -  Removido
-- `Steam Rails` -  Removido
-- `Veinmine`
-- `Voice Chat` -  Removido
 
 
 
