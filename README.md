@@ -13,6 +13,7 @@
 * Mais Desempenho
 * Alguns Segredos 
 * Algumas integrações de mods de patchs antigos
+* Nerf no maximo de corações
 
 ### Novos mods adicionados:
 * Plenty of Golems 
@@ -27,6 +28,7 @@
 * Cosmetic Armor
 * No See , No Tick
 * Memory Leak Fix
+* Strawgolems
 * Mob Grinder Utils
 * Epic Knights
 * Revised Phantoms
