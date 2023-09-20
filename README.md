@@ -1,6 +1,7 @@
 # Balo-Smp
   Modpack feito para jogar no meu servidor
 
+![BaloSMP](https://github.com/Balofoide/Balo-Smp/assets/52862498/aae370f5-7daa-4ac0-8d84-7cdec62eb7b7)
 
 ## Balo-SMP Patch Notes v1.1.0
 
