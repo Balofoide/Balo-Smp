@@ -1,60 +1,37 @@
 # Balo-Smp
 
 
-![BaloSMP](https://github.com/Balofoide/Balo-Smp/assets/52862498/aae370f5-7daa-4ac0-8d84-7cdec62eb7b7)
+![BaloSMP](https://cdn.discordapp.com/attachments/839150580390690846/1190497866494529576/Balosmp_darkage.png?ex=65a20489&is=658f8f89&hm=3a08ac748ceadbf81aa78f3effabef9f009b5b9e6a03426953d1916df8ebcc01&)
 Simplesmente o Melhor modpack que eu conheço :O
 
-## Balo-SMP Patch Notes v1.1.0
+## Balo-SMP Patch Notes v2.0.0
 
- `ATUALIZAÇÃO DO MEDO   O_O` 
+ `A Era das Trevas Chegou` 
 
 ### Novidades Importantes:
-* Mais Aventura
-* Mais Inimigos
-* Mais Armas
-* Mais Desempenho
-* Alguns Segredos 
-* Algumas integrações de mods de patchs antigos
-* Nerf no maximo de corações
+* Minecraft 1.20.1
+* Era das trevas
+* Mais medo
+* Nerf nos Vampiros e Lambisomens
+* Balanceamento na progressão
+* MAIS MODS HAHAHAHHA
 
 ### Novos mods adicionados:
-* Plenty of Golems 
-* Vampires Need Umbrellas
-* Better Amethyst
-* AE2W
-* Simply Swords
-* AE Infinity Booster
-* Applied-Botanics
-* Applied-Mekanism
-* Epic Samurai
-* Cosmetic Armor
-* No See , No Tick
-* Memory Leak Fix
-* Strawgolems
-* Mob Grinder Utils
-* Epic Knights
-* Revised Phantoms
-* Hexerei
-* Ars Creo
-* Born in Chaos
-* Starlight
-* Enemy Expansion
-* Spark
-* Torchmaster
-* Nether Portal Fix
-* Creeper Overhaul
-* Fps Reducer 2
-* Entity Collision Fix
-* Better 3td person
-* Explorer Compass
-* BOH 
-* Travelers Titles
-* Player Revive
-    
+
+Work in Progress.
+
 
 ### Mods removidos:
 
-* Easy Mob Health Bar
+Work in Progress.
+
+### TODO
+
+* Melhorar o menu
+* Fazer mais integração dos mods
+* Balancear mais ainda os mods
+* Melhorar a instalação do modpack
+
 
 
 
