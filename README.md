@@ -1,7 +1,7 @@
 # Balo-Smp
 
 
-![BaloSMP]
+
 Simplesmente o Melhor modpack que eu conheço :O
 
 ## Balo-SMP Patch Notes v3.0
