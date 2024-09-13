@@ -1,19 +1,19 @@
 # Balo-Smp
 
 
-![BaloSMP](https://cdn.discordapp.com/attachments/839150580390690846/1190497866494529576/Balosmp_darkage.png?ex=65a20489&is=658f8f89&hm=3a08ac748ceadbf81aa78f3effabef9f009b5b9e6a03426953d1916df8ebcc01&)
+![BaloSMP]
 Simplesmente o Melhor modpack que eu conheço :O
 
-## Balo-SMP Patch Notes v2.0.0
+## Balo-SMP Patch Notes v3.0
 
- `A Era das Trevas Chegou` 
+ `Ah sim o iluminismo, hora de renascimento` 
 
 ### Novidades Importantes:
 * Minecraft 1.20.1
-* Era das trevas
-* Mais medo
-* Nerf nos Vampiros e Lambisomens
-* Balanceamento na progressão
+* Ranascimento
+* Mais Técnologia
+* Sem vampiros
+* MAQUINAS
 * MAIS MODS HAHAHAHHA
 
 ### Novos mods adicionados:
